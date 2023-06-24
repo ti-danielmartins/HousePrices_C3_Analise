@@ -1,4 +1,5 @@
 # HousePrices_C3_Analise
+### Integrantes: Daniel Martins Ferreira e Lucas Rodrigues da Cruz
 ### Analisando dados de preços de casas nos estados unidos.
 
 O desafio proposto tem como objetivo que alunos tenham uma experiência prática com diferentes
